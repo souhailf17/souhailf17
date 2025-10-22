@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ull-stack development projects and machine learning applications<br>👯 I’m looking to collaborate on open-source AI and software engineering platforms<br>🤝 I’m looking for help with contributing to large-scale open-source projects<br>🌱 I’m currently learning advanced machine learning, cloud computing, and test automation<br>💬 Ask me about ava, Python, REST APIs, and software engineering best practices<br>⚡ Fun fact I enjoy building side projects that mix AI with real-world problem solving
+🔭 I’m currently working on full-stack development projects and machine learning applications<br>👯 I’m looking to collaborate on open-source AI and software engineering platforms<br>🤝 I’m looking for help with contributing to large-scale open-source projects<br>🌱 I’m currently learning advanced machine learning, cloud computing, and test automation<br>💬 Ask me about ava, Python, REST APIs, and software engineering best practices<br>⚡ Fun fact I enjoy building side projects that mix AI with real-world problem solving
 
 
 ## 🌐 Socials:
